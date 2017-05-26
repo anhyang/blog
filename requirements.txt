@@ -1,0 +1,4 @@
+cssselect==1.0.0
+Django==1.10.3
+mysql-python==1.2.5
+queuelib==1.4.2
